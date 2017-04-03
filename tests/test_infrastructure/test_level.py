@@ -11,8 +11,7 @@ from vehicle.vehicle import Vehicle
 class TestLargeVehicle(Vehicle):
     def __init__(self):
         super(TestLargeVehicle, self).__init__(
-            'test large vehicle', SpotSize.LARGE
-        )
+            'test large vehicle', SpotSize.LARGE)
 
 
 class LevelTest(TestCase):
