@@ -71,7 +71,7 @@ it, and return a key in the form of a string to later retrieve the parked Vehicl
 ### Garage.park(vehicle) => `string`, `None`
 
 | Param | Type |
-| --- | --- | --- |
+| --- | --- |
 | vehicle | `Vehicle` |
 
 Returns a `string` representing the key that will be used to retrieve vehicle using [Garage.unpark(string)](#garage+unpark),
