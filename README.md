@@ -154,7 +154,7 @@ Returns the `Vehicle` that was assigned to `key`, returns None if no `Vehicle` i
 ### Spot.park(vehicle) => `Boolean`
 
 | Param | Type |
-| --- | --- | --- |
+| --- | --- |
 | vehicle | `Vehicle` |
 
 Returns `Boolean` depending if vehicle was successfully parked
